@@ -9,11 +9,14 @@ A useful list of resources
   
 ### 神器集合
 
-- [OctoTree](https://github.com/ovity/octotree) 显示GitHub当前项目的整个文件夹结构，可以浏览或下载单个源文件，[Chrome Web Store](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
-   
-- [OctoHint](https://github.com/ovity/octotree) GitHub 浏览代码时，快速查看变量或函数名定义，[Chrome Web Store](https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk)
+- [在线工具](https://tool.lu/) 程序员的工具箱，各种在线小工具，在线程序运行、js美化、解压缩、css美化、格式化、压缩、编辑json、语法检查、图片base64编码、常用进制转换、时间戳转换等等等等
 
-- [OctoLinker](https://github.com/ovity/octotree) GitHub 浏览代码时进行更高效的代码链接跳转，[Chrome Web Store](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)
+
+- [OctoTree](https://github.com/ovity/octotree) 显示GitHub当前项目的整个文件夹结构，可以浏览或下载单个源文件，[Chrome Web Store](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)，[Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/octotree/)，[Opera Addons](https://addons.opera.com/en/extensions/details/octotree/)
+   
+- [OctoHint](https://github.com/pd4d10/octohint) GitHub 浏览代码时，快速查看变量或函数名定义，[Chrome Web Store](https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk)，[Mozilla Add-ons Store](https://github.com/pd4d10/octohint/issues/24#issuecomment-450467200)，[Opera Addons](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)，[Safari Extensions](https://safari-extensions.apple.com/details/?id=com.pd4d10.octohint-2FFP8Y4P2A)
+
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) GitHub 浏览代码时进行更高效的代码链接跳转，[Chrome Web Store](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)，[Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/octolinker/)，[Opera Addons](https://addons.opera.com/en/extensions/details/octolinker/)
   
   
 ### 自我提升系列
