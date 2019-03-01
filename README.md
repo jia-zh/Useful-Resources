@@ -7,6 +7,14 @@ A useful list of resources
   
   
   
+### 神器集合
+
+- [OctoTree](https://github.com/ovity/octotree) 显示GitHub当前项目的整个文件夹结构，可以浏览或下载单个源文件，[Chrome Web Store](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
+   
+- [OctoHint](https://github.com/ovity/octotree) GitHub 浏览代码时，快速查看变量或函数名定义，[Chrome Web Store](https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk)
+
+- [OctoLinker](https://github.com/ovity/octotree) GitHub 浏览代码时进行更高效的代码链接跳转，[Chrome Web Store](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)
+  
   
 ### 自我提升系列
 
