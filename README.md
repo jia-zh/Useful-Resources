@@ -11,6 +11,7 @@ A useful list of resources
 
 - [在线工具](https://tool.lu/) 程序员的工具箱，各种在线小工具，在线程序运行、js美化、解压缩、css美化、格式化、压缩、编辑json、语法检查、图片base64编码、常用进制转换、时间戳转换等等等等
 
+- [The Fuck](https://github.com/nvbn/thefuck) 在Terminal里边输错一个命令，然后不用修改后重新打一遍，直接输入fuck，这个项目就会自动帮你修证然后执行
 
 - [OctoTree](https://github.com/ovity/octotree) 显示GitHub当前项目的整个文件夹结构，可以浏览或下载单个源文件，[Chrome Web Store](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)，[Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/octotree/)，[Opera Addons](https://addons.opera.com/en/extensions/details/octotree/)
    
@@ -38,6 +39,8 @@ A useful list of resources
 - [interview_python](https://github.com/taizilongxu/interview_python) 关于Python的面试题
 
 - [Programmer Job Blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
+
+- [LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解 LeetCode 题目的思路项目
   
 ### Free Qiang Qiang
 ***仅为方便Google，请科学上网合理使用，对所引发的后续所有问题不回应、不负责、不处理***
