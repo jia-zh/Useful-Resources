@@ -5,7 +5,10 @@ A useful list of resources
   
 一些有用的、好玩的工具资源集合
   
-  
+### Algorithms
+
+- [Sorting Algorithms](https://github.com/jia-zh/Sorting-Algorithms) Common sorting algorithms
+
   
 ### 神器集合
 
