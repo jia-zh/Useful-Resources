@@ -19,7 +19,9 @@ A useful list of resources
   - [在线工具](https://tool.lu/) 程序员的工具箱，各种在线小工具，在线程序运行、js美化、解压缩、css美化、格式化、压缩、编辑json、语法检查、图片base64编码、常用进制转换、时间戳转换等等等等
 
   - [The Fuck](https://github.com/nvbn/thefuck) 在Terminal里边输错一个命令，然后不用修改后重新打一遍，直接输入fuck，这个项目就会自动帮你修证然后执行
-    
+
+  - [Postman](https://www.getpostman.com/) 一个很强大的 API、Http请求的Web调试工具
+      
 - LaTeX 神器
   
   - [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
