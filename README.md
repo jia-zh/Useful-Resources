@@ -74,6 +74,6 @@ A useful list of resources
  - ~~[XX-Net](https://github.com/XX-net)~~	
 
  - ~~[ChromeGo](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85) ChromeGo、Chrome一键翻墙包~~	
- - 一到重要会议或重大事件的时候，以上大概率会全部挂掉，还是用收费的吧，稳定好用点的诸如Express又太贵，一年将近600，实在有点肉疼，给大家推荐一款谷歌浏览器插件**谷歌上网助手**，稳定便宜，每月15.99，先给大家一个[离线安装包](https://github.com/jia-zh/Useful-Resources/blob/master/tools/GoogleHelper_1.2.0.crx)，上谷歌后去[Chrome Web Store](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka)更新.
+ - 一到重要会议或重大事件的时候，以上大概率会全部挂掉，还是用收费的吧，稳定好用点的诸如Express又太贵，一年将近600，实在有点肉疼，给大家推荐一款谷歌浏览器插件**谷歌上网助手**，稳定便宜，每月15.99，先给大家一个不用翻墙的[离线安装包](http://www.lanfanshu.cn/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka#download)，也可以去谷歌Store[Chrome Web Store](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka)更新.
 
 
