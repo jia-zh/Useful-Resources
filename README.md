@@ -61,19 +61,6 @@ A useful list of resources
 
 - [LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解 LeetCode 题目的思路项目
   
-### Free Qiang Qiang
-***仅为方便Google，请科学上网合理使用，对所引发的后续所有问题不回应、不负责、不处理***
-  
-- [Shadowsocks](https://github.com/shadowsocks) A secure socks5 proxy, designed to protect your Internet traffic
-
-- [Lantern](https://github.com/getlantern)
-
-- [XX-Net](https://github.com/XX-net)
-  
-- [ChromeGo](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85) ChromeGo、Chrome一键翻墙包
-  
-- [Free Vpn](https://github.com/carolcoral/free_vpn) 同时支持 windows、mac、linux、ios 和 andrioid 系统，并提供 chrome、firefox、opera 等浏览器的插件使用。
-  
 ### IP代理服务
 - [IPProxyPool](https://github.com/qiyeboy/IPProxyPool) IPProxyPool代理池项目，提供代理ip。
 
