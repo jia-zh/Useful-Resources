@@ -18,6 +18,8 @@ A useful list of resources
 
   - [在线工具](https://tool.lu/) 程序员的工具箱，各种在线小工具，在线程序运行、js美化、解压缩、css美化、格式化、压缩、编辑json、语法检查、图片base64编码、常用进制转换、时间戳转换等等等等
 
+  - [REGEXPER](https://regexper.com/#%5Ba-z%5D*%28%5Cd%7B4%7D%28%5CD%2B%29%29) 在线正则表达式可视化工具，展示正则表达式的匹配示意图。
+  
   - [The Fuck](https://github.com/nvbn/thefuck) 在Terminal里边输错一个命令，然后不用修改后重新打一遍，直接输入fuck，这个项目就会自动帮你修证然后执行
 
   - [Postman](https://www.getpostman.com/) 一个很强大的 API、Http请求的Web调试工具
