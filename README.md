@@ -1,4 +1,4 @@
-# Useful-Resources
+# Useful Resources
 [![](https://img.shields.io/badge/update-anytime-success.svg)](https://github.com/jia-zh/NLP-Resources)
   
 A useful list of resources
