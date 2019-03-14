@@ -33,6 +33,8 @@ A useful list of resources
   - [Mathpix](https://mathpix.com/) [知乎介绍](https://zhuanlan.zhihu.com/p/48077774)，数学方程式截图生成 LaTeX 代码
 
 - GitHub神器
+
+  - [Awesome Github](https://github.com/AntBranch/awesome-github) A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.
   
   - [OctoTree](https://github.com/ovity/octotree) 显示GitHub当前项目的整个文件夹结构，可以浏览或下载单个源文件，[Chrome Web Store](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)，[Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/octotree/)，[Opera Addons](https://addons.opera.com/en/extensions/details/octotree/)
    
