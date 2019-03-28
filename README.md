@@ -3,14 +3,15 @@
   
 A useful list of resources
   
-一些有用的、好玩的工具资源集合
-  
-### Algorithms
-
-- [Sorting Algorithms](https://github.com/jia-zh/Sorting-Algorithms) Common sorting algorithms
+一些**有用的**、好玩的工具资源集合
 
   
 ### 神器集合
+
+- 英语神器
+
+  - [linggle](https://linggle.com/) 英语习作词语搭配查询神器
+![image](https://raw.githubusercontent.com/jia-zh/Useful-Resources/master/images/linggle.png)
 
 - 搬砖神器
   
@@ -69,6 +70,8 @@ A useful list of resources
 
   
 ### 自我提升系列
+
+- [Sorting Algorithms](https://github.com/jia-zh/Sorting-Algorithms) Common sorting algorithms
 
 - [100 Days of ML Code Chinese Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version) Chinese Translation for Machine Learning Infographics
 
