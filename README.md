@@ -42,6 +42,29 @@ A useful list of resources
 
   - [OctoLinker](https://github.com/OctoLinker/OctoLinker) GitHub 浏览代码时进行更高效的代码链接跳转，[Chrome Web Store](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)，[Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/octolinker/)，[Opera Addons](https://addons.opera.com/en/extensions/details/octolinker/)
   
+
+### 图标系列
+
+- [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/) 国内最大的图标平台，提供超过300万的图标下载资源。可下载单一图标，也可以点击添加入库，最后批量下载所有入库的图标。支持在线修改颜色，提供三种格式（SVG、Ai、PNG）图标下载。
+
+- [easyicon](https://www.easyicon.net/) 近60万的免费图标资源网站，图标风格比较参差不齐，下载大多是PNG、ICO格式。
+
+- [Human Pictogram2](http://pictogram2.com/) 风格一致的火柴人图标，提供三种格式（SVG、Ai、PNG）图标下载，均为免费可商用，其中内容包括1000组主题人物，并提供人物相关配件让使用者可以另外「组装」。
+
+- [Standart](https://standart.io/) 专门提供简单的线条造型的素材网站，而且只有白色形状，拥有设计简单、线条俐落的特。
+
+- [icons8](http://pictogram2.com/) 支持在线改色、添加文字或背景装饰等，提供SVG、EPS、PNG和PDF四种下载格式。此外，还可以下载Icons8 App，直接搜寻、编辑后拖曳图标至设计软件中，省去下载导入的繁琐。
+
+- [unDraw](https://undraw.co/illustrations) 由设计师 Katerina Limpitsouni 所提供的插图网站，支持在线修改插图的色调，提供 PNG 和 SVG 两种格式下载。
+
+- [illustrio](https://illustrio.com/) 可以在线调整颜色和目标风格样式（面型改线型、添加图标装饰等），提供SVG和PNG两种格式下载。
+
+- [图片无损放大](http://bigjpg.com/) 使用最新人工智能深度学习技术将噪点和锯齿的部分进行补充，实现图片的无损放大。
+
+- [soogif](https://www.soogif.com/) Gif动态图片搜索与在线制作。
+
+- [wordart](https://wordart.com/) 在线制作词云，支持各种形状。
+
   
 ### 自我提升系列
 
