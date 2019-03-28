@@ -59,6 +59,8 @@ A useful list of resources
 
 - [illustrio](https://illustrio.com/) 可以在线调整颜色和目标风格样式（面型改线型、添加图标装饰等），提供SVG和PNG两种格式下载。
 
+- [Instant Logo Search](http://instantlogosearch.com/) 收录各大品牌的 LOGO 扁平化风格图标，支持中文搜索，提供三种格式（SVG、Ai、PNG）图标，可用「Add to Bucket」打包批量下载多个图标。
+
 - [图片无损放大](http://bigjpg.com/) 使用最新人工智能深度学习技术将噪点和锯齿的部分进行补充，实现图片的无损放大。
 
 - [soogif](https://www.soogif.com/) Gif动态图片搜索与在线制作。
