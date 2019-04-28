@@ -8,6 +8,10 @@ A useful list of resources
   
 ### 神器集合
 
+- 神器软件
+
+  - [MacType](https://www.mactype.net/) 接管Windows系统的GDI字体渲染功能，实现比Mac系统更华丽的字体渲染效果
+
 - 英语神器
 
   - [linggle](https://linggle.com/) 英语习作词语搭配查询神器
