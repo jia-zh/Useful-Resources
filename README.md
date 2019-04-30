@@ -11,6 +11,8 @@ A useful list of resources
 - 神器软件
 
   - [MacType](https://www.mactype.net/) 接管Windows系统的GDI字体渲染功能，实现比Mac系统更华丽的字体渲染效果
+  
+  - [苹方字体](https://github.com/jia-zh/Useful-Resources/tree/master/materials/%E8%8B%B9%E6%96%B9%E5%AD%97%E4%BD%93) 全套苹方字体ttf文件
 
 - 英语神器
 
