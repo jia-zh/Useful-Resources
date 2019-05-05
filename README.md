@@ -13,7 +13,9 @@ A useful list of resources
   - [Everything](https://everything.en.softonic.com/) Windows 平台上最快速的文件索引工具，且只有几兆的大小
   
   - [Seer](http://www.1218.io/seer.html) Windows平台的文件预览软件，支持常见图片、视频、音频、压缩文件、纯文本、文档等
-  
+
+  - [PanDownload](https://pandownload.com/) 支持全平台第三方百度网盘下载工具，目前已开发出Windows桌面版、安卓版、以及支持全平台强悍的[网页版](https://www.baiduwp.com/)！
+
   - [MacType](https://www.mactype.net/) 接管Windows系统的GDI字体渲染功能，实现比Mac系统更华丽的字体渲染效果
   
   - [苹方字体](https://github.com/jia-zh/Useful-Resources/tree/master/materials/%E8%8B%B9%E6%96%B9%E5%AD%97%E4%BD%93) 全套苹方字体ttf文件
