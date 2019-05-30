@@ -61,6 +61,15 @@ A useful list of resources
 
   - [OctoLinker](https://github.com/OctoLinker/OctoLinker) GitHub 浏览代码时进行更高效的代码链接跳转，[Chrome Web Store](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)，[Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/octolinker/)，[Opera Addons](https://addons.opera.com/en/extensions/details/octolinker/)
   
+### 颜色系列
+
+- [Color Hunt](https://colorhunt.co/) 提供了很多的配色方案，我们直接使用就OK了
+
+- [Adobe Color](https://color.adobe.com/zh/create/color-wheel) Adobe公司提供的多种配色方案，可自己调整和选择
+
+### 字体系列
+
+- [PS字体库](http://www.psjia.com/pssc/fontxz/list_18_3.html) PS字体库，包含了几乎所有类型的字体，下载好安装，PS中就可以使用了
 
 ### 图标系列
 
