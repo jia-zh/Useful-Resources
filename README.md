@@ -98,6 +98,8 @@ A useful list of resources
   
 ### 自我提升系列
 
+- [The Algorithms](https://github.com/TheAlgorithms) Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language(Java/Python/C/C-Plus-Plus/Scala/C-Sharp)
+
 - [Sorting Algorithms](https://github.com/jia-zh/Sorting-Algorithms) Common sorting algorithms
 
 - [100 Days of ML Code Chinese Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version) Chinese Translation for Machine Learning Infographics
