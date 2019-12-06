@@ -6,7 +6,7 @@ A useful list of resources
 一些**有用的**、好玩的工具资源集合
 
   
-### 神器集合
+## 神器集合
 
 - 神器软件
 
@@ -54,17 +54,17 @@ A useful list of resources
 
   - [OctoLinker](https://github.com/OctoLinker/OctoLinker) GitHub 浏览代码时进行更高效的代码链接跳转，[Chrome Web Store](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)，[Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/octolinker/)，[Opera Addons](https://addons.opera.com/en/extensions/details/octolinker/)
   
-### 颜色系列
+## 颜色系列
 
 - [Color Hunt](https://colorhunt.co/) 提供了很多的配色方案，我们直接使用就OK了
 
 - [Adobe Color](https://color.adobe.com/zh/create/color-wheel) Adobe公司提供的多种配色方案，可自己调整和选择
 
-### 字体系列
+## 字体系列
 
 - [PS字体库](http://www.psjia.com/pssc/fontxz/list_18_3.html) PS字体库，包含了几乎所有类型的字体，下载好安装，PS中就可以使用了
 
-### 图标系列
+## 图标系列
 
 - [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/) 国内最大的图标平台，提供超过300万的图标下载资源。可下载单一图标，也可以点击添加入库，最后批量下载所有入库的图标。支持在线修改颜色，提供三种格式（SVG、Ai、PNG）图标下载。
 
@@ -88,11 +88,11 @@ A useful list of resources
 
 - [wordart](https://wordart.com/) 在线制作词云，支持各种形状。
 
-### PPT教程
+## PPT教程
   
 - [放 PPT 之前，请你注意这一些！](https://www.mf8.biz/ppt-tips/)
   
-### 自我提升系列
+## 自我提升系列
 
 - [The Algorithms](https://github.com/TheAlgorithms) Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language(Java/Python/C/C-Plus-Plus/Scala/C-Sharp)
 
@@ -103,7 +103,7 @@ A useful list of resources
 - [USTC CS Courses Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) 中国科学技术大学计算机学院课程资源
   
   
-### 跳槽系列
+## 跳槽系列
   
 - [Algorithm Interview Notes Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习/深度学习/自然语言处理/C/C++/Python/面试笔记
   
@@ -119,10 +119,10 @@ A useful list of resources
 
 - [LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解 LeetCode 题目的思路项目
   
-### IP代理服务
+## IP代理服务
 - [IPProxyPool](https://github.com/qiyeboy/IPProxyPool) IPProxyPool代理池项目，提供代理ip。
 
-### Qiang Qiang	
+## 安全上网	
 ***仅为方便Google，请科学上网合理使用，对所引发的后续所有问题不回应、不负责、不处理***	
 
  - ~~[Shadowsocks](https://github.com/shadowsocks) A secure socks5 proxy, designed to protect your Internet traffic~~	
