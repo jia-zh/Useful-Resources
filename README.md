@@ -23,13 +23,6 @@ A useful list of resources
 - 英语神器
 
   - [linggle](https://linggle.com/) 英语习作词语搭配查询神器
-      - 使用* (星号) 查询任意零到多个词，例如 play * role ，其结果为 play a role 及 play an important role
-      - 使用_ (底线) 查询任意一个词，例如 listen _ music ，其结果为 listen to music
-      - 使用?TERM (问号后面接任意一个词) 查询是否需要特定词，例如 listen ?to music ，其结果为 listen to music，除此之外，你也可以指定TERM的词性(请详看"POS")，例如 discuss ?prep. it ，其结果为 discuss it
-      - 使用TERM1/TERM2 (斜线) 查询何者较佳，例如 go in/to school ，其结果为 go to school
-      - 使用POS (Part Of Speech;词性) 查询任意词(差别在可以指定词性)，例如 v. a report ，其结果为 submit a report，POS可以为 v. (动词) n. (名词) adj. (形容词) prep. (介系词) det. (冠词) conj. (连接词) pron. (代名词) 
-别忘了每个POS后面别忘了加上点"."
-      - 贴心小叮咛：Linggle 最多只能查询连续五个词汇喔！
 
 - 搬砖神器
   
@@ -95,6 +88,9 @@ A useful list of resources
 
 - [wordart](https://wordart.com/) 在线制作词云，支持各种形状。
 
+### PPT教程
+  
+- [放 PPT 之前，请你注意这一些！](https://www.mf8.biz/ppt-tips/)
   
 ### 自我提升系列
 
@@ -106,7 +102,8 @@ A useful list of resources
 
 - [USTC CS Courses Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) 中国科学技术大学计算机学院课程资源
   
-### 找饭碗系列
+  
+### 跳槽系列
   
 - [Algorithm Interview Notes Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习/深度学习/自然语言处理/C/C++/Python/面试笔记
   
